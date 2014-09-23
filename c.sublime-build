@@ -1,0 +1,3 @@
+{
+	"shell_cmd": "xfce4-terminal -T build  -e sh -x ~/scripts/build.sh $file " 
+}
